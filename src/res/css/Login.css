@@ -1,0 +1,47 @@
+#Password {
+    color: white;
+}
+
+#Username {
+    color: white;
+}
+
+#register-button {
+    position: relative;
+    left: 20px;
+    border-radius: 20px;
+}
+
+#login-button {
+    position: relative;
+    left: 10px;
+    border-radius: 20px;
+}
+
+#log-text {
+    position: relative;
+    top: 20px;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+#login-button:hover {
+    background-color: #8ED2D6;
+}
+
+#register-button:hover {
+    background-color: #8ED2D6;
+}
+
+#logout-button {
+    border-radius: 20px;
+}
+
+#logout-button:hover {
+    background-color: #8ED2D6;
+    
+}
+
+#welcome-message {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
