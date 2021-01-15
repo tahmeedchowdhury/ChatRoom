@@ -10,4 +10,4 @@ The intial page is a login screen where users can login or create a new account.
 
 
 
-This project was written for personal use and to gain experience using MERN stack and is not deployed. All testing for the website has been done using NPM commands and the localhost:3000 server. Currently, access to the 
+This project was written for personal use and to gain experience using MERN stack and is not deployed. All testing for the website has been done on the localhost:3000 server.
